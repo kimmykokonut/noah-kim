@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Epicodus Day 3: CSS Styling Text and git_
 
 #### By _**Kim Robinson and Noah Kise**_
 
