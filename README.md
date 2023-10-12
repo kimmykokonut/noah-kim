@@ -11,7 +11,7 @@
 
 ## Description
 
-Day 2 Epicodus Boocamp. Built website using html and css working on <ul> and <ol> and adding <img>.  Projects include: Bloody Mary recipe, Best/Worst Mushrooms, Favorite Places Lists
+Day 2 Epicodus Boocamp. Built website using html and css working on ul, ol, and adding img.  Projects include: Bloody Mary recipe, Best/Worst Mushrooms, Favorite Places Lists
 
 ## Setup/Installation Requirements
 
