@@ -16,6 +16,7 @@ Day 2 Epicodus Boocamp. Built website using html and css working on ul, ol, and 
 ## Setup/Installation Requirements
 
 * Live Server via VS Code to view
+* OR view as github pages here: https://kimmykokonut.github.io/noah-kim/
 
 ## Known Bugs
 
@@ -23,6 +24,6 @@ Day 2 Epicodus Boocamp. Built website using html and css working on ul, ol, and 
 
 ## License
 
-MIT
+This project is licensed under the MIT license - see the LICENSE.md file for details
 
-Copyright (c) _10 October 2023_ _Kim Robinson and Noah Kise_
+Copyright (c) 10 October 2023 Kim Robinson & Noah Kise
